@@ -1,0 +1,7 @@
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\bin\Debug\Debugger.dll
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\bin\Debug\Debugger.pdb
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\bin\Debug\System.Core.dll
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\bin\Debug\UnityEngine.dll
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\obj\Debug\Debugger.csprojResolveAssemblyReference.cache
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\obj\Debug\Debugger.dll
+E:\xys\CodeBackUp\Debugger\Debugger\Debugger\obj\Debug\Debugger.pdb
