@@ -6,7 +6,7 @@ Some Unity tricks, helpful in my work. Most is collected from anywhere.
 ### 01 Unity Debugger
 * **简介**  
 对Unity `Debug.Log` 的封装，同时显示输出时间，输出语句所在的函数，并可以改变输出的颜色。  
-![不是说要把Console做得如此花哨啦，但是有的时候还是蛮有用的...](https://github.com/XJoshua/UnityTinyTricks/blob/master/ReferImage/01_ConsoleLog.png)
+![不是说要把Console做得如此花哨啦，但是有的时候还是蛮有用的...](UnityTinyTricks/ReferImage/01_ConsoleLog.PNG)
 
 * **直接使用**  
     1. 把 DLL 文件放到Unity工程中，在 `Player Setting - Other Settings - Scripting Define Symbols` 中，添加 `ENABLE_LOG` 。
